@@ -11,3 +11,6 @@
 
 ## Academic
 ![image](https://user-images.githubusercontent.com/66879339/233306026-8eef62d4-b6e3-43da-a893-bfe4750fcf62.png)
+![image](https://user-images.githubusercontent.com/66879339/233306168-b32d0ea3-5f4d-420a-8255-c846b0d64ac6.png)
+![image](https://user-images.githubusercontent.com/66879339/233306207-212fb82a-39e6-49d4-bfdb-b626d50eb9d9.png)
+![image](https://user-images.githubusercontent.com/66879339/233306190-96e9ce50-fe61-46be-a5af-e23440de725b.png)
