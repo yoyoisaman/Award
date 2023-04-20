@@ -8,3 +8,6 @@
 
 ### Hackathon
 ![image](https://user-images.githubusercontent.com/66879339/232308337-cf10ca04-1e2e-4982-b0ef-b033fcb5c69e.png)
+
+## Academic
+![image](https://user-images.githubusercontent.com/66879339/233306026-8eef62d4-b6e3-43da-a893-bfe4750fcf62.png)
