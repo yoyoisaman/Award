@@ -1,20 +1,20 @@
 # Award
 
 ## Competitive Programming Contest
-### The International Collegiate Programming Contest Asia Taipei Regional(ACM ICPC)
+### The International Collegiate Programming Contest Asia Taipei Regional (ACM ICPC)
 #### 2022
 ![image](https://user-images.githubusercontent.com/66879339/232228768-d8b96ff4-3421-45f0-ad32-9a0a872d15be.png)
 #### 2021
 ![image](https://user-images.githubusercontent.com/66879339/232228780-d80a38bc-3e0a-4767-9edb-0f5597e0161e.png)
 
-### National Collegiate Programming Contest
+
+### National Collegiate Programming Contest (NCPC)
 #### 2022
 ![image](https://user-images.githubusercontent.com/66879339/233784977-96fd10b3-32ab-459b-84e2-b5692013ec00.png)
 
-## Hackathon
-![image](https://user-images.githubusercontent.com/66879339/232308337-cf10ca04-1e2e-4982-b0ef-b033fcb5c69e.png)
-
 ## Academic
+### NSTC College Student Research Creativity Award
+![image](https://github.com/yoyoisaman/Award/blob/main/2023-%E5%9C%8B%E7%A7%91%E6%9C%83%E5%A4%A7%E5%B0%88%E7%94%9F%E7%A0%94%E7%A9%B6%E7%8D%8E.pdf)
 ### 2020-2021
 ![image](https://user-images.githubusercontent.com/66879339/233306207-212fb82a-39e6-49d4-bfdb-b626d50eb9d9.png)
 ### 2020-2021
