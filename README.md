@@ -14,7 +14,7 @@
 
 ## Academic
 ### NSTC College Student Research Creativity Award
-![image](https://github.com/yoyoisaman/Award/blob/main/2023-%E5%9C%8B%E7%A7%91%E6%9C%83%E5%A4%A7%E5%B0%88%E7%94%9F%E7%A0%94%E7%A9%B6%E7%8D%8E.pdf)
+![image](./2023-國科會大專生研究獎.pdf)
 ### 2020-2021
 ![image](https://user-images.githubusercontent.com/66879339/233306207-212fb82a-39e6-49d4-bfdb-b626d50eb9d9.png)
 ### 2020-2021
