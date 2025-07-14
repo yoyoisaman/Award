@@ -9,7 +9,7 @@
 
 
 ### National Collegiate Programming Contest (NCPC)
-#### 2022
+#### Honorable Mention Award 2022
 ![image](https://user-images.githubusercontent.com/66879339/233784977-96fd10b3-32ab-459b-84e2-b5692013ec00.png)
 
 ## Academic
