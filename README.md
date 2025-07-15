@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/66879339/233784977-96fd10b3-32ab-459b-84e2-b5692013ec00.png)
 
 ## Academic
-### NSTC College Student Research Creativity Award 2023
+### NSTC College Student Research Creativity Award 2024
 <img width="2000" height="1391" alt="下載" src="https://github.com/user-attachments/assets/7d90f041-5f93-4678-8088-95b3987a5c48" />
 
 ### Presidential Honor Award 2020-2021
